@@ -8,3 +8,12 @@ color, alergico, atención_especial, nombre_duenio, celular_duenio, observacione
 Para poder registrar de manera sencilla y que sea atractiva para el usuario, la dueña de la 
 peluquería canina proporciona el siguiente diseño APROXIMADO de la idea que tiene para la 
 interfaz gráfica de usuario: 
+
+# Acceso a la base 
+base:  polo_pelucanina
+contraseña:  Polo1Acceso
+
+usuario:  PoloTPO2
+contraseña:  Polo1Acceso
+
+mas detalles en carpeta dba
