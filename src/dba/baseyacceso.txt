@@ -1,5 +1,4 @@
-TPO Nº 2 - PELUQUERIA CANINA
------------------------------
+# TPO Nº 2 - PELUQUERIA CANINA
 
 base:  polo_pelucanina
 contraseña:  Polo1Acceso
